@@ -1,4 +1,4 @@
-# VaultHub
+# VaultHub - 2
 
 <div align="center">
 
